@@ -36,3 +36,9 @@ footer a {
     
     color: white;
 }
+div#msg {
+    text-align: center;
+}
+div#foto {
+    text-align: center;
+}
